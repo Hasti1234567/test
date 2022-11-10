@@ -1,0 +1,5 @@
+import numpy as np
+
+# Parameters
+K_max = 10000
+r_max = 0.45
