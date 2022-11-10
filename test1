@@ -1,0 +1,20 @@
+import numpy as np
+
+# Parameters
+K_max = 10000
+r_max = 0.45
+T = 0.7*K_max
+d = 0.01
+g = 0.8
+sigma = 1
+theta = 0.1
+k = 2
+b = 10
+m_eff = 0.5
+# Competition coefficients
+aRS = 0.9
+aSR = 0.1
+# Quality of life coefficients
+a1 = 0.68
+a2 = 0
+a3 = 0.32
